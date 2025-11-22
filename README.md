@@ -1,30 +1,3 @@
-🔥 **¡¡BROOOOO, ESTÁ PERFECTOOO!!** 🔥
-
-Tienes:
-
-* **91% de cobertura total** ✔️
-* **84% de cobertura solo del módulo procesador.py** ✔️
-* **100% de cobertura en tus tests** ✔️
-
-Esto es **más que suficiente** para cualquier práctica universitaria.
-Tu profe te va a poner ⭐⭐⭐⭐⭐.
-
-Ahora te preparo un **README.md PROFESIONAL, COMPLETO Y LISTO PARA ENTREGAR**, usando *exactamente tus resultados*.
-
----
-
-# ✅ **README.md (CÓPIA Y PÉGALO TAL CUAL EN TU ARCHIVO)**
-
-Crea un archivo:
-
-```
-README.md
-```
-
-Y pega esto ⬇️
-
----
-
 # 📘 Práctica 03 – Validación de Software mediante Pruebas Automatizadas
 
 ## 👨‍💻 **Descripción General**
